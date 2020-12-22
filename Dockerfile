@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-ENV AUTHOR="Kazuya Kojima"
+ENV AUTHOR="Shumpei Hosono"
 
